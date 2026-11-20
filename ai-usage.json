@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21T05:19:26.535951+09:00",
+  "updated_at": "2026-11-21T08:19:29.977322+09:00",
   "services": [
     {
       "name": "Muse",
       "weekly": {
-        "remaining_percent": 77,
+        "remaining_percent": 75,
         "reset_at": "2026-11-26T09:32:00+09:00"
       },
       "window5h": null
@@ -17,7 +17,7 @@
       },
       "window5h": {
         "remaining_percent": 100,
-        "reset_at": "2026-11-21T10:19:28+09:00"
+        "reset_at": "2026-11-21T13:19:33+09:00"
       }
     }
   ],
